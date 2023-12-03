@@ -1,0 +1,16 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Sample Restaurant 1",
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      "cuisine": "Italian"
+      
+    }
+    
+  ]
+}
